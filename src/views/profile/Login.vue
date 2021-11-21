@@ -36,7 +36,7 @@
         </van-cell-group>
         <div style="margin: 16px">
           <div class="link-login" @click="$router.push({ path: '/register' })">
-            已有账号，立即登录
+            没有账号，立即注册
           </div>
           <van-button
             round
